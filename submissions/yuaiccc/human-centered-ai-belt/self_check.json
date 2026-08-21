@@ -26,6 +26,8 @@
         "submissions/yuaiccc/human-centered-ai-belt/assets/figures/metrics-evidence.png",
         "submissions/yuaiccc/human-centered-ai-belt/assets/figures/mobility-bluegreen.en.png",
         "submissions/yuaiccc/human-centered-ai-belt/assets/figures/mobility-bluegreen.png",
+        "submissions/yuaiccc/human-centered-ai-belt/assets/figures/overview-real.en.png",
+        "submissions/yuaiccc/human-centered-ai-belt/assets/figures/overview-real.png",
         "submissions/yuaiccc/human-centered-ai-belt/assets/figures/site-overview.en.png",
         "submissions/yuaiccc/human-centered-ai-belt/assets/figures/site-overview.png",
         "submissions/yuaiccc/human-centered-ai-belt/assumptions.json",
@@ -61,7 +63,7 @@
       "ai_package_stages": {
         "submissions/yuaiccc/human-centered-ai-belt": "formal"
       },
-      "total_bytes": 3972464,
+      "total_bytes": 4160325,
       "maintainer_bypass": false
     },
     "stderr": ""

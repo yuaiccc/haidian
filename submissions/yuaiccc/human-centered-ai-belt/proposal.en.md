@@ -31,6 +31,8 @@ At the research scale, Ye Pulse builds a chain from universities and open-source
 
 ![Three-level framework](assets/figures/land-use-structure.en.png)
 
+![Overview spatial structure derived from package GeoJSON (provisional boundary)](assets/figures/overview-real.en.png)
+
 The spatial concept is **one heritage-and-innovation belt, three anchors, distributed scenarios and a blue-green mobility loop**. The three anchors are Zhongzhi Park, Beijing AI Origin Community and Dazhongsi AI Cluster. They are design interpretations of the brief, not new red lines.
 
 ## Overall design and future-city strategy

@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "e0476539151541ffe47eb556a8bf3d441be78f67d173481db701f732949b390a"
+      "sha256": "eb3205d8e19cfd32120a95ae5aed73d43b805792851751d329273e1ae5588083"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "418276a56007061cd5f00d27eb2b51c666317a8b379762fa4ba237ab84c984a3"
+      "sha256": "fc87e946ee684d4d74dd042ba7221f76b6a23a5fe1991156d8eb326fa1738bbc"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,7 +81,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "962267c51b48c420374ed75773c6d34a63b3be7f2e49fb1bae8c21038e5d7df7"
+      "sha256": "4865b262e772a949b91e1eb336c000f3aa8e1c670d2f2a591cae9de1c37d507a"
     },
     {
       "path": "report/narrative.md",
@@ -152,6 +152,13 @@
       "sha256": "af94e2035024a3df7eb13a5f816531dc43b59cd7b2e7f0f841021b7220cd368a"
     },
     {
+      "path": "assets/figures/overview-real.png",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "zh",
+      "sha256": "338cb090b8d0bcf4a08390b20b4789aeacc58c2208283e63b9d5e8e916da9a2a"
+    },
+    {
       "path": "geometry/buildings.geojson",
       "role": "geometry",
       "required": true,
@@ -211,7 +218,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "9b723ac785e41da7ebfb143b26c6cc1fdc5011f742df31842436bfa003266a8b"
+      "sha256": "902f880f3671662765336d113adf84d0ab9b866885ccaed37276f8ed867bf8ae"
     },
     {
       "path": "report/proposal.en.html",
@@ -219,7 +226,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "72fd32cdc4c03af6e6b1a01e9812ee2e5b3f3dc31eb558614b9b4b8341f7c424"
+      "sha256": "854251aec5718193eb017b6548c6f16970560182879adb0d23447bca40bee5e1"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -284,6 +291,14 @@
       "language": "en",
       "translation_of": "assets/figures/site-overview.png",
       "sha256": "53acb37377db907635f7459bf34692dc04d837c3cd5c91bf039902165ba5d218"
+    },
+    {
+      "path": "assets/figures/overview-real.en.png",
+      "role": "proposal_figure",
+      "required": true,
+      "language": "en",
+      "translation_of": "assets/figures/overview-real.png",
+      "sha256": "bfa4163d837799440b585b07ee93d96e28e1467114a6a47f176be4ca4035a674"
     }
   ],
   "validation_claim": {
